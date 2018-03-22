@@ -11,6 +11,7 @@ namespace TUTATATUTUTA
         static void Main(string[] args)
         {
             Console.WriteLine("TUTATATUTUTA");
+            Console.WriteLine("TATUTUTATATUTUU");
         }
     }
 }
